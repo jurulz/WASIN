@@ -1,3 +1,16 @@
+
+ █     █░ ▄▄▄        ██████  ██▓ ███▄    █ 
+▓█░ █ ░█░▒████▄    ▒██    ▒ ▓██▒ ██ ▀█   █ 
+▒█░ █ ░█ ▒██  ▀█▄  ░ ▓██▄   ▒██▒▓██  ▀█ ██▒
+░█░ █ ░█ ░██▄▄▄▄██   ▒   ██▒░██░▓██▒  ▐▌██▒
+░░██▒██▓  ▓█   ▓██▒▒██████▒▒░██░▒██░   ▓██░
+░ ▓░▒ ▒   ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░░▓  ░ ▒░   ▒ ▒ 
+  ▒ ░ ░    ▒   ▒▒ ░░ ░▒  ░ ░ ▒ ░░ ░░   ░ ▒░
+  ░   ░    ░   ▒   ░  ░  ░   ▒ ░   ░   ░ ░ 
+    ░          ░  ░      ░   ░           ░ 
+    
+****Tenable WAS installer for Nessus****
+
 **BETA** Tenable WAS Installer for Nessus
 This script automates the setup and configuration of a Nessus scanner on Linux systems. it methodically prepares the system for Nessus installation and ensures all necessary components are correctly configured.
 
