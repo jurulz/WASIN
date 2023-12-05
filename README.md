@@ -32,10 +32,7 @@ Instructions for Use:
 Testing Note:
 This script has been specifically tested on Oracle Linux 9 with a minimal installation setup with the Standard installation of Oracle Linux addon. While it offers broad compatibility with other Linux distributions, optimal performance and behavior are best guaranteed on similar environments.
 
- 
 
 Conclusion:
 This script is designed to streamline the deployment and configuration process of Nessus in a Linux environment, making it an efficient tool for system administrators or security professionals. It reduces manual intervention and ensures a consistent setup across different systems.
 
-
-![image](https://github.com/jurulz/WASIN/assets/60669313/d73acdc6-b35d-457e-b56b-c6095130e6f7)
